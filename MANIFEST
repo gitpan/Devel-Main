@@ -6,6 +6,7 @@ Makefile.PL
 README
 dist.ini
 lib/Devel/Main.pm
+lib/Devel/Main.pm.bak
 t/01_main.t
 t/02_require.t
 t/test_main.pl
