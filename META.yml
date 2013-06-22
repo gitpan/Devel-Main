@@ -16,6 +16,7 @@ meta-spec:
 name: Devel-Main
 requires:
   Sub::Exporter: 0.985
+  perl: 5.010
   strict: 0
   warnings: 0
-version: 0.002
+version: 0.003
