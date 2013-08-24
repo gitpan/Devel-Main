@@ -16,8 +16,11 @@ meta-spec:
   version: 1.4
 name: Devel-Main
 requires:
-  Sub::Exporter: 0.985
+  Carp: 0
   perl: 5.010
   strict: 0
   warnings: 0
-version: 0.004
+resources:
+  homepage: https://github.com/stephenenelson/devel-main
+  repository: https://github.com/stephenenelson/devel-main.git
+version: 0.005

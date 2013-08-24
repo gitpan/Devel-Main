@@ -20,7 +20,7 @@ my %WriteMakefileArgs = (
   "LICENSE" => "perl",
   "NAME" => "Devel::Main",
   "PREREQ_PM" => {
-    "Sub::Exporter" => "0.985",
+    "Carp" => 0,
     "strict" => 0,
     "warnings" => 0
   },
@@ -29,7 +29,7 @@ my %WriteMakefileArgs = (
     "Test::More" => 0,
     "lib" => 0
   },
-  "VERSION" => "0.004",
+  "VERSION" => "0.005",
   "test" => {
     "TESTS" => "t/*.t"
   }
